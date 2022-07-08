@@ -1,0 +1,41 @@
+22/08 PARC=112PRODUTOS GLO09/12 RIO DE JANEIR       59.90
+25/02 PAG*SolarMagazine 03/03 FORTALEZA            166.33
+26/02 IAP COSMETICOS LTDA 03/06 FORTALEZA           93.16
+27/02 FREITAS VAREJO 03/04 FORTALEZA                69.98
+25/03 FARMACIAS PAGUE MENO02/02 FORTALEZA           36.09
+01/04 EBANX*SHOPEE 02/02 SAO PAULO                  17.00
+01/04 CASA DA TIA ROSA 02/03 FORTALEZA              65.00
+03/04 HOSPITAL VETERINA 02/02 FORTALEZA            102.00
+04/04 IAP COSMETICOS LTDA 02/02 FORTALEZA           51.71
+12/04 Uber *UBER *TRIP SAO PAULO                     9.30
+12/04 UBER *TRIP Sao Paulo                           7.85
+12/04 Uber *UBER *TRIP SAO PAULO                     9.24
+22/04 AmazonPrimeBR SAO PAULO                        9.90
+22/04 NETFLIX.COM SAO PAULO                         55.90
+25/04 APPLE.COM/BILL SAO PAULO                      24.90
+26/04 APPLE.COM/BILL SAO PAULO                       3.50
+26/04 O VAQUEIRO FORTALEZA                          31.92
+27/04 MP *MERCADINHOSA OSASCO                      135.00
+27/04 PAG*Petzaplicativo 01/02 EMBU DAS ARTE       189.00
+28/04 GN DESCARTAVEIS FORTALEZA                     28.00
+29/04 PAG*ARRASAATACADO FORTALEZA                   65.00
+01/05 Uber *UBER *TRIP SAO PAULO                    19.99
+01/05 UNIBOI BOULEVARD FORTALEZA                   230.60
+01/05 PAG*GeladaoDoBart FORTALEZA                   74.62
+02/05 MP *PITSTOPBEER FORTALEZA                     20.00
+03/05 MERCADINHO LENE FORTALEZA                     10.11
+03/05 MERCADINHO LENE FORTALEZA                     44.71
+03/05 MAGALU*MAGAZINELUIZA01/03 CAMPINAS            59.68
+04/05 ORAL DENT'S FORTALEZA                         40.00
+04/05 ORAL DENT'S FORTALEZA                         80.00
+04/05 APPLE.COM/BILL SAO PAULO                      32.90
+05/05 Uber *UBER *TRIP SAO PAULO                     8.85
+05/05 Uber *UBER *TRIP SAO PAULO                     8.06
+05/05 Uber *UBER *TRIP SAO PAULO                     5.01
+06/05 GN DESCARTAVEIS FORTALEZA                     42.00
+08/05 Uber *UBER *TRIP SAO PAULO                    19.91
+09/05 UBER* TRIP OSASCO                             24.91
+09/05 ASSAI ATACADISTA FORTALEZA                   291.60
+09/05 PAG*OMerendaLanches FORTALEZA                 14.50
+09/05 MP *MERCADINHOSA 01/02 OSASCO                 70.63
+12/05 PAG*OMerendaLanches FORTALEZA                  4.00

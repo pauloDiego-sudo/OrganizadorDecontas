@@ -1,0 +1,166 @@
+Nome:  PARC=112PRODUTOS GLO09/12 RIO DE JANEIR 
+Valor: R$ 59.90 
+Dia: 22/08 
+
+Nome:  PAG*SolarMagazine 03/03 FORTALEZA       
+Valor: R$ 166.33 
+Dia: 25/02 
+
+Nome:  IAP COSMETICOS LTDA 03/06 FORTALEZA     
+Valor: R$ 93.16 
+Dia: 26/02 
+
+Nome:  FREITAS VAREJO 03/04 FORTALEZA          
+Valor: R$ 69.98 
+Dia: 27/02 
+
+Nome:  FARMACIAS PAGUE MENO02/02 FORTALEZA     
+Valor: R$ 36.09 
+Dia: 25/03 
+
+Nome:  EBANX*SHOPEE 02/02 SAO PAULO            
+Valor: R$ 17.00 
+Dia: 01/04 
+
+Nome:  CASA DA TIA ROSA 02/03 FORTALEZA        
+Valor: R$ 65.00 
+Dia: 01/04 
+
+Nome:  HOSPITAL VETERINA 02/02 FORTALEZA       
+Valor: R$ 102.00 
+Dia: 03/04 
+
+Nome:  IAP COSMETICOS LTDA 02/02 FORTALEZA     
+Valor: R$ 51.71 
+Dia: 04/04 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 9.30 
+Dia: 12/04 
+
+Nome:  UBER *TRIP Sao Paulo                    
+Valor: R$ 7.85 
+Dia: 12/04 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 9.24 
+Dia: 12/04 
+
+Nome:  AmazonPrimeBR SAO PAULO                 
+Valor: R$ 9.90 
+Dia: 22/04 
+
+Nome:  NETFLIX.COM SAO PAULO                   
+Valor: R$ 55.90 
+Dia: 22/04 
+
+Nome:  APPLE.COM/BILL SAO PAULO                
+Valor: R$ 24.90 
+Dia: 25/04 
+
+Nome:  APPLE.COM/BILL SAO PAULO                
+Valor: R$ 3.50 
+Dia: 26/04 
+
+Nome:  O VAQUEIRO FORTALEZA                    
+Valor: R$ 31.92 
+Dia: 26/04 
+
+Nome:  MP *MERCADINHOSA OSASCO                 
+Valor: R$ 135.00 
+Dia: 27/04 
+
+Nome:  PAG*Petzaplicativo 01/02 EMBU DAS ARTE  
+Valor: R$ 189.00 
+Dia: 27/04 
+
+Nome:  GN DESCARTAVEIS FORTALEZA               
+Valor: R$ 28.00 
+Dia: 28/04 
+
+Nome:  PAG*ARRASAATACADO FORTALEZA             
+Valor: R$ 65.00 
+Dia: 29/04 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 19.99 
+Dia: 01/05 
+
+Nome:  UNIBOI BOULEVARD FORTALEZA              
+Valor: R$ 230.60 
+Dia: 01/05 
+
+Nome:  PAG*GeladaoDoBart FORTALEZA             
+Valor: R$ 74.62 
+Dia: 01/05 
+
+Nome:  MP *PITSTOPBEER FORTALEZA               
+Valor: R$ 20.00 
+Dia: 02/05 
+
+Nome:  MERCADINHO LENE FORTALEZA               
+Valor: R$ 10.11 
+Dia: 03/05 
+
+Nome:  MERCADINHO LENE FORTALEZA               
+Valor: R$ 44.71 
+Dia: 03/05 
+
+Nome:  MAGALU*MAGAZINELUIZA01/03 CAMPINAS      
+Valor: R$ 59.68 
+Dia: 03/05 
+
+Nome:  ORAL DENT'S FORTALEZA                   
+Valor: R$ 40.00 
+Dia: 04/05 
+
+Nome:  ORAL DENT'S FORTALEZA                   
+Valor: R$ 80.00 
+Dia: 04/05 
+
+Nome:  APPLE.COM/BILL SAO PAULO                
+Valor: R$ 32.90 
+Dia: 04/05 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 8.85 
+Dia: 05/05 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 8.06 
+Dia: 05/05 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 5.01 
+Dia: 05/05 
+
+Nome:  GN DESCARTAVEIS FORTALEZA               
+Valor: R$ 42.00 
+Dia: 06/05 
+
+Nome:  Uber *UBER *TRIP SAO PAULO              
+Valor: R$ 19.91 
+Dia: 08/05 
+
+Nome:  UBER* TRIP OSASCO                       
+Valor: R$ 24.91 
+Dia: 09/05 
+
+Nome:  ASSAI ATACADISTA FORTALEZA              
+Valor: R$ 291.60 
+Dia: 09/05 
+
+Nome:  PAG*OMerendaLanches FORTALEZA           
+Valor: R$ 14.50 
+Dia: 09/05 
+
+Nome:  MP *MERCADINHOSA 01/02 OSASCO           
+Valor: R$ 70.63 
+Dia: 09/05 
+
+Nome:  PAG*OMerendaLanches FORTALEZA           
+Valor: R$ 4.00 
+Dia: 12/05 
+
+Valor Total 2218.78 
+Valor Total com desconto: 2063.78 
